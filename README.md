@@ -10,9 +10,9 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 ## 👨🏻‍🎓 Beginner
 
-- :x: [Day 1](x): ~~Working with Variables in Python to Manage Data~~
+- :white_check_mark: [Day 1](day_001): Working with Variables in Python to Manage Data
 
-- :x: [Day 2](x): ~~Understanding Data Types and How to Manipulate Strings~~
+- :white_check_mark: [Day 2](day_002): Understanding Data Types and How to Manipulate Strings
 
 - :x: [Day 3](x): ~~Control Flow and Logical Operators~~
 
