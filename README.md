@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![0%](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![4%](https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -14,9 +14,9 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 2](day_002): Understanding Data Types and How to Manipulate Strings
 
-- :x: [Day 3](x): ~~Control Flow and Logical Operators~~
+- :white_check_mark: [Day 3](day_003): Control Flow and Logical Operators
 
-- :x: [Day 4](x): ~~Randomisation and Python Lists~~
+- :white_check_mark: [Day 4](day_004): Randomisation and Python Lists
 
 - :x: [Day 5](x): ~~Python Loops~~
 
