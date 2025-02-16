@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![6%](https://geps.dev/progress/6?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![7%](https://geps.dev/progress/7?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -22,7 +22,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 6](day_006): Python Functions & Karel
 
-- :x: [Day 7](x): ~~Hangman~~
+- :white_check_mark: [Day 7](day_007): Hangman
 
 - :x: [Day 8](x): ~~Function Parameters & Caesar Cipher~~
 
