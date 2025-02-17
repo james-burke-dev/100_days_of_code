@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![7%](https://geps.dev/progress/7?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![8%](https://geps.dev/progress/8?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -24,7 +24,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 7](day_007): Hangman
 
-- :x: [Day 8](x): ~~Function Parameters & Caesar Cipher~~
+- :white_check_mark: [Day 8](day_008): Function Parameters & Caesar Cipher
 
 - :x: [Day 9](x): ~~Dictionaries, Nesting and the Secret Auction~~
 
