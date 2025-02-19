@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![9%](https://geps.dev/progress/9?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![10%](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -26,9 +26,9 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 8](day_008): Function Parameters & Caesar Cipher
 
-- :x: [Day 9](x): ~~Dictionaries, Nesting and the Secret Auction~~
+- :white_check_mark: [Day 9](day_009): Dictionaries, Nesting and the Secret Auction
 
-- :x: [Day 10](x): ~~Function Return Values and the Calculator Project~~
+- :white_check_mark: [Day 10](day_010): Function Return Values and the Calculator Project
 
 - :white_flag: [Day 11](x): ~~Blackjack Capstone Project~~
 
