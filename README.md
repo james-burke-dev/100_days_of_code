@@ -30,7 +30,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 10](day_010): Function Return Values and the Calculator Project
 
-- :white_flag: [Day 11](x): ~~Blackjack Capstone Project~~
+- :checkered_flag: [Day 11](day_011): Blackjack Capstone Project
 
 - :x: [Day 12](x): ~~Scope and Namespacing in Python~~
 
