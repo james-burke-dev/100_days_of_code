@@ -32,7 +32,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :checkered_flag: [Day 11](day_011): Blackjack Capstone Project
 
-- :x: [Day 12](x): ~~Scope and Namespacing in Python~~
+- :white_check_mark: [Day 12](day_012): Scope and Namespacing in Python
 
 - :x: [Day 13](x): ~~Debugging: How to Find and Fix Errors in your Code~~
 
