@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![12%](https://geps.dev/progress/12?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![13%](https://geps.dev/progress/13?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -34,7 +34,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 12](day_012): Scope and Namespacing in Python
 
-- :x: [Day 13](x): ~~Debugging: How to Find and Fix Errors in your Code~~
+- :white_check_mark: [Day 13](day_013): Debugging: How to Find and Fix Errors in your Code
 
 - :x: [Day 14](x): ~~Higher Lower Game Project~~
 
