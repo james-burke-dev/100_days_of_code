@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![11%](https://geps.dev/progress/11?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![12%](https://geps.dev/progress/12?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
