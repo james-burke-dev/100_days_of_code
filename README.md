@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![13%](https://geps.dev/progress/13?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![14%](https://geps.dev/progress/14?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -36,7 +36,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 13](day_013): Debugging: How to Find and Fix Errors in your Code
 
-- :x: [Day 14](x): ~~Higher Lower Game Project~~
+- :white_check_mark: [Day 14](day_014): Higher Lower Game Project
 
 ## 🏋🏻‍♂️ Intermediate
 
