@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![14%](https://geps.dev/progress/14?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![15%](https://geps.dev/progress/15?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -40,7 +40,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 ## 🏋🏻‍♂️ Intermediate
 
-- :x: [Day 15](x): ~~Local Development Environment Setup & the Coffee Machine Project~~
+- :white_check_mark: [Day 15](day_015): Local Development Environment Setup & the Coffee Machine Project
 
 - :x: [Day 16](x): ~~Object Oriented Programming (OOP)~~
 
