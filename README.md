@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![17%](https://geps.dev/progress/17?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![18%](https://geps.dev/progress/18?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -46,7 +46,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 17](day_017): The Quiz Project & the Benefits of OOP
 
-- :x: [Day 18](x): ~~Turtle Graphics and GUIs~~
+- :white_check_mark: [Day 18](day_018): Turtle Graphics and GUIs
 
 - :x: [Day 19](x): ~~Instances, State and Higher Order Functions~~
 
