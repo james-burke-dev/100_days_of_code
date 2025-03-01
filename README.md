@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![19%](https://geps.dev/progress/19?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![20%](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -50,7 +50,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 19](day_019): Instances, State and Higher Order Functions
 
-- :x: [Day 20](x): ~~Build the Snake Game Part 1: Animation & Coordinates~~
+- :white_check_mark: [Day 20](day_020): Build the Snake Game Part 1: Animation & Coordinates
 
 - :x: [Day 21](x): ~~Build the Snake Game Part 2: Inheritance & List Slicing~~
 
