@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![20%](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![22%](https://geps.dev/progress/22?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -52,9 +52,9 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 20](day_020): Build the Snake Game Part 1: Animation & Coordinates
 
-- :x: [Day 21](x): ~~Build the Snake Game Part 2: Inheritance & List Slicing~~
+- :white_check_mark: [Day 21](day_021): Build the Snake Game Part 2: Inheritance & List Slicing
 
-- :x: [Day 22](x): ~~Build Pong: The Famous Arcade Game~~
+- :white_check_mark: [Day 22](day_022): Build Pong: The Famous Arcade Game
 
 - :white_flag: [Day 23](x): ~~The Turtle Crossing Capstone Project~~
 
