@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![22%](https://geps.dev/progress/22?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![23%](https://geps.dev/progress/23?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -56,7 +56,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 22](day_022): Build Pong: The Famous Arcade Game
 
-- :white_flag: [Day 23](x): ~~The Turtle Crossing Capstone Project~~
+- :checkered_flag: [Day 23](day_023): The Turtle Crossing Capstone Project
 
 - :x: [Day 24](x): ~~Files, Directories and Paths~~
 
