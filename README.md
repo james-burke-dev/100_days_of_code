@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![23%](https://geps.dev/progress/23?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![24%](https://geps.dev/progress/24?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -58,7 +58,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :checkered_flag: [Day 23](day_023): The Turtle Crossing Capstone Project
 
-- :x: [Day 24](x): ~~Files, Directories and Paths~~
+- :white_check_mark: [Day 24](day_024): Files, Directories and Paths
 
 - :x: [Day 25](x): ~~Working with CSV Data and the Pandas Library~~
 
