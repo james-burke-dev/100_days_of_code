@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![24%](https://geps.dev/progress/24?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![25%](https://geps.dev/progress/25?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -60,7 +60,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 24](day_024): Files, Directories and Paths
 
-- :x: [Day 25](x): ~~Working with CSV Data and the Pandas Library~~
+- :white_check_mark: [Day 25](day_025): Working with CSV Data and the Pandas Library
 
 - :x: [Day 26](x): ~~List Comprehension & the NATO Pilot's Alphabet~~
 
