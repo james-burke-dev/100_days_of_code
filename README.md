@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![27%](https://geps.dev/progress/27?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![28%](https://geps.dev/progress/28?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -64,9 +64,9 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 26](day_026): List Comprehension & the NATO Pilot's Alphabet
 
-- :white_check_mark: [Day 27](x): Tkinter, \*args, \*\*kwargs and Creating GUI Programs
+- :white_check_mark: [Day 27](day_027): Tkinter, \*args, \*\*kwargs and Creating GUI Programs
 
-- :x: [Day 28](x): ~~Tkinter, Dynamic Typing and the Pomodoro GUI Application~~
+- :white_check_mark: [Day 28](day_028): Tkinter, Dynamic Typing and the Pomodoro GUI Application
 
 - :x: [Day 29](x): ~~Building a Password Manager GUI App with Tkinter~~
 
