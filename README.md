@@ -68,7 +68,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 28](day_028): Tkinter, Dynamic Typing and the Pomodoro GUI Application
 
-- :x: [Day 29](x): ~~Building a Password Manager GUI App with Tkinter~~
+- :white_check_mark: [Day 29](day_029): Building a Password Manager GUI App with Tkinter
 
 - :x: [Day 30](x): ~~Errors, Exceptions and JSON Data: Improving the Password Manager~~
 
