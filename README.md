@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![28%](https://geps.dev/progress/28?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![30%](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -70,7 +70,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 29](day_029): Building a Password Manager GUI App with Tkinter
 
-- :x: [Day 30](x): ~~Errors, Exceptions and JSON Data: Improving the Password Manager~~
+- :white_check_mark: [Day 30](day_030): Errors, Exceptions and JSON Data: Improving the Password Manager
 
 - :white_flag: [Day 31](x): ~~Capstone Project - Flash Card App~~
 
