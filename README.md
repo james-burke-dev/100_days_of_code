@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![30%](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![31%](https://geps.dev/progress/31?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -72,7 +72,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 30](day_030): Errors, Exceptions and JSON Data: Improving the Password Manager
 
-- :white_flag: [Day 31](x): ~~Capstone Project - Flash Card App~~
+- :checkered_flag: [Day 31](day_031): Capstone Project - Flash Card App
 
 ## 💪 Intermediate+
 
