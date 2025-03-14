@@ -78,7 +78,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 32](day_032): Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
 
-- :x: [Day 33](x): ~~API Endpoints and API Parameters - ISS Overhead Notifier~~
+- :white_check_mark: [Day 33](day_033): API Endpoints and API Parameters - ISS Overhead Notifier
 
 - :x: [Day 34](x): ~~API Practice - Creating a GUI Quiz App~~
 
