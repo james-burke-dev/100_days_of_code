@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![31%](https://geps.dev/progress/31?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![34%](https://geps.dev/progress/34?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -80,7 +80,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 33](day_033): API Endpoints and API Parameters - ISS Overhead Notifier
 
-- :x: [Day 34](x): ~~API Practice - Creating a GUI Quiz App~~
+- :white_check_mark: [Day 34](day_034): API Practice - Creating a GUI Quiz App
 
 - :x: [Day 35](x): ~~Keys, Authentication & Environment Variables: Send SMS~~
 
