@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![34%](https://geps.dev/progress/34?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![35%](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -82,7 +82,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 34](day_034): API Practice - Creating a GUI Quiz App
 
-- :x: [Day 35](x): ~~Keys, Authentication & Environment Variables: Send SMS~~
+- :white_check_mark: [Day 35](day_035): Keys, Authentication & Environment Variables: Send SMS
 
 - :x: [Day 36](x): ~~Stock Trading News Alert Project~~
 
