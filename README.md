@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![35%](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![36%](https://geps.dev/progress/36?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -84,7 +84,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 35](day_035): Keys, Authentication & Environment Variables: Send SMS
 
-- :x: [Day 36](x): ~~Stock Trading News Alert Project~~
+- :white_check_mark: [Day 36](day_036): Stock Trading News Alert Project
 
 - :x: [Dau 37](x): ~~Habit Tracking Pixel Project~~
 
