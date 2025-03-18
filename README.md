@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![36%](https://geps.dev/progress/36?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![37%](https://geps.dev/progress/37?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -86,7 +86,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 36](day_036): Stock Trading News Alert Project
 
-- :x: [Dau 37](x): ~~Habit Tracking Pixel Project~~
+- :white_check_mark: [Day 37](day_037): Habit Tracking Pixel Project
 
 - :x: [Day 38](x): ~~Build a Workout Tracking App that Talks to Google Sheets!~~
 
