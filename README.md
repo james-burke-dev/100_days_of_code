@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![37%](https://geps.dev/progress/37?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![38%](https://geps.dev/progress/38?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -88,7 +88,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 37](day_037): Habit Tracking Pixel Project
 
-- :x: [Day 38](x): ~~Build a Workout Tracking App that Talks to Google Sheets!~~
+- :white_check_mark: [Day 38](x): Build a Workout Tracking App that Talks to Google Sheets!
 
 - :white_flag: [Day 39](x): ~~Capstone Part 1: Flight Deal Finder~~
 
