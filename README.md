@@ -88,11 +88,11 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 37](day_037): Habit Tracking Pixel Project
 
-- :white_check_mark: [Day 38](x): Build a Workout Tracking App that Talks to Google Sheets!
+- :white_check_mark: [Day 38](day_038): Build a Workout Tracking App that Talks to Google Sheets!
 
-- :checkered_flag: [Day 39](x): Capstone Part 1: Flight Deal Finder
+- :checkered_flag: [Day 39](day_039): Capstone Part 1: Flight Deal Finder
 
-- :white_flag: [Day 40](x): ~~Capstone Part 2: Flight Club!~~
+- :checkered_flag: [Day 40](day_040): Capstone Part 2: Flight Club!
 
 - :x: [Day 41](x): ~~Introduction to HTML~~
 
