@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![39%](https://geps.dev/progress/39?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![41%](https://geps.dev/progress/41?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -94,7 +94,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :checkered_flag: [Day 40](day_040): Capstone Part 2: Flight Club!
 
-- :x: [Day 41](x): ~~Introduction to HTML~~
+- :white_check_mark: [Day 41](day_041): Introduction to HTML
 
 - :x: [Day 42](x): ~~Intermediate HTML~~
 
