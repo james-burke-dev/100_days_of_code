@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![42%](https://geps.dev/progress/42?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![43%](https://geps.dev/progress/43?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -98,7 +98,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 42](day_042): Intermediate HTML
 
-- :x: [Day 43](x): ~~Introduction to CSS~~
+- :white_check_mark: [Day 43](day_043): Introduction to CSS
 
 - :x: [Day 44](x): ~~Intermediate CSS~~
 
