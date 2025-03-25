@@ -2,11 +2,13 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![43%](https://geps.dev/progress/43?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![44%](https://geps.dev/progress/44?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
-This repository holds all the projects and tasks completed while taking [100 Days of Code](https://www.udemy.com/course/100-days-of-code/) Udemy course by [Dr. Angela Yu](https://www.linkedin.com/in/angela-yu-963a584b/).
+To get back into the habit of coding daily I've decided to code for the next 100 days. This repository holds all the projects and tasks completed during this time. Most of the projects will be completed with Python.
+
+To help with this I'm completing the [100 Days of Code](https://www.udemy.com/course/100-days-of-code/) Udemy course by [Dr. Angela Yu](https://www.linkedin.com/in/angela-yu-963a584b/).
 
 ## 👨🏻‍🎓 Beginner
 
@@ -100,7 +102,7 @@ This repository holds all the projects and tasks completed while taking [100 Day
 
 - :white_check_mark: [Day 43](day_043): Introduction to CSS
 
-- :x: [Day 44](x): ~~Intermediate CSS~~
+- :white_check_mark: [Day 44](day_044): Intermediate CSS
 
 - :x: [Day 45](x): ~~Web Scraping with Beautiful Soup~~
 
