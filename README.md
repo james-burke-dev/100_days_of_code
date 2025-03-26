@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![44%](https://geps.dev/progress/44?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![45%](https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -104,7 +104,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 44](day_044): Intermediate CSS
 
-- :x: [Day 45](x): ~~Web Scraping with Beautiful Soup~~
+- :white_check_mark: [Day 45](day_045): Web Scraping with Beautiful Soup
 
 - :x: [Day 46](x): ~~Create a Spotify Playlist using the Musical Time Machine~~
 
