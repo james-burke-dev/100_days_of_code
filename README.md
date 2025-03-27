@@ -106,7 +106,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 45](day_045): Web Scraping with Beautiful Soup
 
-- :x: [Day 46](x): ~~Create a Spotify Playlist using the Musical Time Machine~~
+- :white_check_mark: [Day 46](day_046): Create a Spotify Playlist using the Musical Time Machine
 
 - :x: [Day 47](x): ~~Create an Automated Amazon Price Tracker~~
 
