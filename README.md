@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![45%](https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![47%](https://geps.dev/progress/47?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -108,7 +108,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 46](day_046): Create a Spotify Playlist using the Musical Time Machine
 
-- :x: [Day 47](x): ~~Create an Automated Amazon Price Tracker~~
+- :white_check_mark: [Day 47](day_047): Create an Automated Amazon Price Tracker
 
 - :x: [Day 48](x): ~~Selenium Webdriver and Game Playing Bot~~
 
