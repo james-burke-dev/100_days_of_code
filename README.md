@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![47%](https://geps.dev/progress/47?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![49%](https://geps.dev/progress/49?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -110,9 +110,9 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 47](day_047): Create an Automated Amazon Price Tracker
 
-- :x: [Day 48](x): ~~Selenium Webdriver and Game Playing Bot~~
+- :white_check_mark: [Day 48](day_048): Selenium Webdriver and Game Playing Bot
 
-- :x: [Day 49](x): ~~Automating Job Applications on LinkedIn~~
+- :white_check_mark: [Day 49](day_049): Automating Job Applications on LinkedIn
 
 - :x: [Day 50](x): ~~Automated Tinder Swiper~~
 
