@@ -114,7 +114,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 49](day_049): Automating Job Applications on LinkedIn
 
-- :x: [Day 50](x): ~~Automated Tinder Swiper~~
+- :white_check_mark: [Day 50](day_050): Automated Tinder Swiper
 
 - :x: [Day 51](x): ~~Internet Speed Twitter Complaint Bot~~
 
