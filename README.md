@@ -116,7 +116,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 50](day_050): Automated Tinder Swiper
 
-- :x: [Day 51](x): ~~Internet Speed Twitter Complaint Bot~~
+- :white_check_mark: [Day 51](day_051): Internet Speed Twitter Complaint Bot
 
 - :x: [Day 52](x): ~~Instagram Follower Bot~~
 
