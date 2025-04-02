@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![49%](https://geps.dev/progress/49?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![52%](https://geps.dev/progress/52?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -118,7 +118,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 51](day_051): Internet Speed Twitter Complaint Bot
 
-- :x: [Day 52](x): ~~Instagram Follower Bot~~
+- :white_check_mark: [Day 52](day_052): Instagram Follower Bot
 
 - :x: [Day 53](x): ~~Automated Data Entry Job~~
 
