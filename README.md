@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![53%](https://geps.dev/progress/53?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![54%](https://geps.dev/progress/54?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -122,7 +122,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 53](day_053): Automated Data Entry Job
 
-- :x: [Day 54](x): ~~Introduction to Web Development with Flask~~
+- :white_check_mark: [Day 54](day_054): Introduction to Web Development with Flask
 
 - :x: [Day 55](x): ~~HTML & URL Parsing in Flask and the Higher Lower Game~~
 
