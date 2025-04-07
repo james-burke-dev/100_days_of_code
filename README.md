@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![56%](https://geps.dev/progress/56?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![57%](https://geps.dev/progress/57?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -128,7 +128,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 56](day_056): Rendering HTML/Static Files and Name Card Project
 
-- :x: [Day 57](x): ~~Templating with Jinja and Blog Project~~
+- :white_check_mark: [Day 57](day_057): Templating with Jinja and Blog Project
 
 - :x: [Day 58](x): ~~Bootstrap~~
 
