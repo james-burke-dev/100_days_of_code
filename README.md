@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![59%](https://geps.dev/progress/59?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![60%](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -136,7 +136,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 59](day_059): Upgraded Blog with Bootstrap
 
-- :x: [Day 60](x): ~~HTML Forms with Flask~~
+- :white_check_mark: [Day 60](day_060): HTML Forms with Flask
 
 - :x: [Day 61](x): ~~Building Advanced Forms with WTForms~~
 
