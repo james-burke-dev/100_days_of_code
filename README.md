@@ -138,7 +138,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 60](day_060): HTML Forms with Flask
 
-- :x: [Day 61](x): ~~Building Advanced Forms with WTForms~~
+- :white_check_mark: [Day 61](day_061): Building Advanced Forms with WTForms
 
 - :x: [Day 62](x): ~~Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project~~
 
