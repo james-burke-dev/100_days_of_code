@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![60%](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![62%](https://geps.dev/progress/62?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -140,7 +140,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 61](day_061): Building Advanced Forms with WTForms
 
-- :x: [Day 62](x): ~~Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project~~
+- :white_check_mark: [Day 62](day_062): Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
 
 - :x: [Day 63](x): ~~Databases and with SQLite and SQLAlchemy~~
 
