@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![63%](https://geps.dev/progress/63?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![64%](https://geps.dev/progress/64?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -144,7 +144,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 63](day_063): Databases and with SQLite and SQLAlchemy
 
-- :x: [Day 64](x): ~~My Top 10 Movies Website~~
+- :white_check_mark: [Day 64](day_064): My Top 10 Movies Website
 
 - :x: [Day 65](x): ~~Web Design School - How to Create a Website that People will Love~~
 
