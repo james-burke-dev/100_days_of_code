@@ -2,7 +2,7 @@
 
 <h1>100 Days of Code 🐍</h1>
 
-![64%](https://geps.dev/progress/64?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![65%](https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 </div>
 
@@ -146,7 +146,7 @@ To help with this I'm completing the [100 Days of Code](https://www.udemy.com/co
 
 - :white_check_mark: [Day 64](day_064): My Top 10 Movies Website
 
-- :x: [Day 65](x): ~~Web Design School - How to Create a Website that People will Love~~
+- :white_check_mark: [Day 65](day_065): Web Design School - How to Create a Website that People will Love
 
 - :x: [Day 66](x): ~~Building Your Own API with RESTful Routing~~
 
